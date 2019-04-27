@@ -1,4 +1,4 @@
 # RemoteFirst
 Firstly create a remote repository
-Key word: F11
+Key word: F12
 
