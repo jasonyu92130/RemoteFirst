@@ -1,3 +1,3 @@
 # RemoteFirst
 Firstly create a remote repository
-Key word: M6
+Key word: M7
